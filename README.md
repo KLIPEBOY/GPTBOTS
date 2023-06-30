@@ -43,3 +43,6 @@ The program does not require the installation of additional dependencies.
 ___
 ## Configuration
 The program does not use a configuration file. Bot tokens should be entered in the respective fields on the "TG" and "DS" tabs in the program window.
+
+#
+![Static Badge](https://img.shields.io/badge/Versions%3A_0.1-green)
