@@ -1,4 +1,4 @@
-##GPTBOTS py KLIPEBOY
+#GPTBOTS py KLIPEBOY
 Программа GPTBOTS py KLIPEBOY представляет собой интерфейс для запуска двух чат-ботов на основе модели GPT-3.5. Один бот работает в Telegram (TG), а другой - в Discord (DS).
 
 Запуск исполняемого файла
